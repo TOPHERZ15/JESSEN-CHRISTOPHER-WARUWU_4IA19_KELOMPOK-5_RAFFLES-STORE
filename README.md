@@ -17,7 +17,7 @@ SUSUNAN TIM :
 5. Muhammad Ridho Hapidz (51422138) : Programmer
 
 TECH STACK
-Berikut adalah tools dan teknologi yang digunakan dalam pengembangan dan pengujian sistem Rafflestore:
+Berikut ini adalah tools dan teknologi yang digunakan dalam pengembangan dan pengujian sistem Rafflestore:
 •	Visual Studio Code (VS Code)
 Digunakan sebagai code editor utama dalam pengembangan sistem.
 •	Laravel
